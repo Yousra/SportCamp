@@ -25,7 +25,7 @@
 <head>
 <title>Admin</title>
 </head>
-<body>
+<body bgcolor="#FFFFFF">
 <table width='100%'>
 <tr>
 <td>
